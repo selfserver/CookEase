@@ -66,7 +66,7 @@ main ()
 	cout << array[8];
 	cout << array2[3];
 	cout << array[9];
-	cout << endl << endl;
+	cout << endl <<  endl;
 	  
     break;
     }
