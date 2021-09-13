@@ -16,4 +16,4 @@ So team **‘Algo Rhythm’** wants to solve this minor issue raised by the gove
 |3)|ARPIT OKSIYA|
 |4)|VISHAL KUMHAR|
 
->keep smiling and work harder
+>keep smiling and coding 
