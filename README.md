@@ -11,11 +11,11 @@ CSS and java script code that the user can copy and paste it in its website( we 
 
 So team *‘Algo Rhythm’* wants to solve this minor issue raised by the government’s concern about the data privacy. Which can have repercussions on small business that are operating online. With this cookie consent code generator we can help small business to stay away from any unwanted legal issues. 
 
-|SR NO:| TEAM MEMBERS|              
-|---|---|
-|1)|YASH SHELKE|
-|2)|PURVA KULKARNI|
-|3)|ARPIT OKSIYA|
-|4)|VISHAL KUMHAR|
+|SR NO:| TEAM MEMBERS| MENTORS|             
+|---|---|---|
+|1)|YASH SHELKE|PANKAJ KHUSHALANI|
+|2)|PURVA KULKARNI|TUSHAR BAUSKAR|
+|3)|ARPIT OKSIYA|VISHAL DANGE|
+|4)|VISHAL KUMHAR|---|
 
 >keep smiling and coding
