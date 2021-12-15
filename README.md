@@ -16,6 +16,6 @@ So team *‘Algo Rhythm’* wants to solve this minor issue raised by the govern
 |1)|YASH SHELKE|PANKAJ KHUSHALANI|
 |2)|PURVA KULKARNI|TUSHAR BAUSKAR|
 |3)|ARPIT OKSIYA|VISHAL DANGE|
-|4)|VISHAL KUMHAR|---|
+|4)|VISHAL KUMHAR|
 
 >keep smiling and coding
