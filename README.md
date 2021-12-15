@@ -36,8 +36,7 @@ Tools and technologies that you learnt and used in the project.
 >Easy and free solution to consent banner, cookie and privacy policy
 ## Future scope
 >We are planning to add diiferent privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy 
-## Screenshots
-
-![Home Page](https://drive.google.com/file/d/1u1THK0udJ8V0Cz3RPeSkgHpY-C4lNyyh/view?usp=sharing "Here is a screenshot")
-
+>
+* GitHub repo link: [Link to repository](https://github.com/your-repo-linkhttps://github.com/selfserver/CookEase/tree/main/Prototype)
+* Drive link: [Drive link here](https://drive.google.com/drive/folders/1SRbIRZLnxR7JOcB10NyXK-GesU4FLGug)
 >keep smiling and coding
