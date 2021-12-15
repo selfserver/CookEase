@@ -18,4 +18,26 @@ So team *‘Algo Rhythm’* wants to solve this minor issue raised by the govern
 |3)|ARPIT OKSIYA|VISHAL DANGE|
 |4)|VISHAL KUMHAR|
 
+## Technology stack
+
+Tools and technologies that you learnt and used in the project.
+
+1. HTML
+2. CSS
+3. JS
+4. Tailwind
+
+## Progress
+
+- [x] Front end 
+- [] Backend  
+
+## Applications
+>Easy and free solution to consent banner, cookie and privacy policy
+## Future scope
+>We are planning to add diiferent privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy 
+## Screenshots
+
+![Home Page](https://drive.google.com/file/d/1u1THK0udJ8V0Cz3RPeSkgHpY-C4lNyyh/view?usp=sharing "Here is a screenshot")
+
 >keep smiling and coding
