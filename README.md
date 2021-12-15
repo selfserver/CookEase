@@ -1,5 +1,5 @@
 # CookEase
-##Algo Rhythm
+## AlgoRhythm
 
 |SR NO:| TEAM MEMBERS|Email| MENTORS|             
 |---|---|---|---|
