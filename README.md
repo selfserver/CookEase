@@ -1,5 +1,12 @@
 # CookEase
 
+|SR NO:| TEAM MEMBERS|Email| MENTORS|             
+|---|---|---|---|
+|1)|Arpit Oksiya|apoksiya_b20@vjti.tx.ac.in|PANKAJ KHUSHALANI|
+|2)|Yash Shelke|ydshelke_b20@pe.vjti.ac.in|TUSHAR BAUSKAR|
+|3)|Purva Kulkarni|Prkulkarni_b20@ee.vjti.ac.in|VISHAL DANGE|
+|4)|VISHAL KUMHAR|
+
 _**Cookie consent code generator**_, is a website where you can choose the look, style and the animation that you want to your cookie consent banner, after European Union’s data protection law, it is compulsory for websites who are operating in European union in countries like Austria, Belgium and all other countries in union to have a consent of users to track their activity. Our website will have the Radio buttons to select the
 -	Position of the cookie consent banner.
 -	Colour combination.
@@ -11,12 +18,7 @@ CSS and java script code that the user can copy and paste it in its website( we 
 
 So team *‘Algo Rhythm’* wants to solve this minor issue raised by the government’s concern about the data privacy. Which can have repercussions on small business that are operating online. With this cookie consent code generator we can help small business to stay away from any unwanted legal issues. 
 
-|SR NO:| TEAM MEMBERS| MENTORS|             
-|---|---|---|
-|1)|YASH SHELKE|PANKAJ KHUSHALANI|
-|2)|PURVA KULKARNI|TUSHAR BAUSKAR|
-|3)|ARPIT OKSIYA|VISHAL DANGE|
-|4)|VISHAL KUMHAR|
+
 
 ## Technology stack
 
