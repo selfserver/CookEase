@@ -1,5 +1,4 @@
 # CookEase
-# CookEase
 ## AlgoRhythm
 
 |SR NO:| TEAM MEMBERS|Email| MENTORS|             
@@ -33,13 +32,13 @@ Tools and technologies that you learnt and used in the project.
 
 ## Progress
 
-- [x] Front end 
-- [] Backend  
+ [x]Frontend 
+ [] Backend  
 
 ## Applications
 >Easy and free solution to consent banner, cookie and privacy policy
 ## Future scope
->We are planning to add diiferent privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy 
+>We are planning to add different privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy 
 >
 * GitHub repo link: [Link to repository](https://github.com/your-repo-linkhttps://github.com/selfserver/CookEase/tree/main/Prototype)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1SRbIRZLnxR7JOcB10NyXK-GesU4FLGug)
