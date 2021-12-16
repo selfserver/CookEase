@@ -32,8 +32,8 @@ Tools and technologies that you learnt and used in the project.
 
 ## Progress
 
--[x]Frontend 
--[] Backend  
+- [x] Frontend 
+- [] Backend  
 
 ## Applications
 >Easy and free solution to consent banner, cookie and privacy policy
