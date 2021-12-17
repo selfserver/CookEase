@@ -40,6 +40,6 @@ Tools and technologies that you learnt and used in the project.
 ## Future scope
 >We are planning to add different privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy 
 >
-* GitHub repo link: [Link to repository](https://github.com/your-repo-linkhttps://github.com/selfserver/CookEase/tree/main/Prototype)
+* GitHub repo link: [Link to repository](https://github.com/selfserver/CookEase)
 * Drive link: [Drive link here](https://drive.google.com/drive/folders/1SRbIRZLnxR7JOcB10NyXK-GesU4FLGug)
 >keep smiling and coding
