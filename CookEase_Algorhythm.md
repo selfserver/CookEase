@@ -37,6 +37,10 @@ Tools and technologies that you learnt and used in the project.
 
 ## Applications
 >Easy and free solution to consent banner, cookie and privacy policy
+
+## Screenshots for reference
+
+
 ## Future scope
 >We are planning to add different privacy policies with respect to the region and we are going to provide user an accurate and concise cookie and privacy policy. 
 >We are planning to add a consent banner to improve the user experience of the site.
