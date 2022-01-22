@@ -5,8 +5,7 @@
 |---|---|---|---|
 |1)|Arpit Oksiya|apoksiya_b20@vjti.tx.ac.in|Pankaj Khushalani|
 |2)|Yash Shelke|ydshelke_b20@pe.vjti.ac.in|Tushar Bauskar|
-|3)|Purva Kulkarni|Prkulkarni_b20@ee.vjti.ac.in|Vishal Dange|
-|4)|Vishal Kumhar|vlkumharb20@pe.vjti.ac.in|
+|3)|||Vishal Dange|
 
 _**Cookie consent code generator**_, is a website where you can choose the look, style and the animation that you want to your cookie consent banner, after European Union’s data protection law, it is compulsory for websites who are operating in European union in countries like Austria, Belgium and all other countries in union to have a consent of users to track their activity. Our website will have the Radio buttons to select the
 -	Position of the cookie consent banner.
